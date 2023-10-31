@@ -82,3 +82,46 @@ html{
     transition: box-shadow 0.15s linear 0s;
     transform: scale(1.5);
 }
+
+.start-title{
+    margin-left: 1.85rem;
+    margin-top: 1.5rem;
+}
+.sub-title{
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+}
+.title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.content{
+    margin-left: 2rem;
+    margin-right: 0;
+    width: 60%;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+.content2{
+    margin-bottom: 0;
+    height: 22%;
+    width: 33%;
+    margin-left: 0;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+.news1{
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+.stories{
+    margin-left: 1rem;
+}
+hr{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
